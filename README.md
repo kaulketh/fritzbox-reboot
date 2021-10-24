@@ -4,5 +4,5 @@ Adaptation of the classic Linux bash script (see [origin](./origin/cron_fritzbox
 Thanks to [Nico](https://github.com/nicoh88)!
 
 tested with Raspberry Pi 4 that functions as a DNS-Server([PiHole](https://pi-hole.net/)):
-* Fritz!Box Cable 6660 w/ FRITZ!OS: 07.24 
-* FRITZ!Repeater 1200 w/ FRITZ!OS: 07.27 
+* Fritz!Box Cable 6660 FRITZ!OS: 07.24 
+* FRITZ!Repeater 1200 FRITZ!OS: 07.27 
